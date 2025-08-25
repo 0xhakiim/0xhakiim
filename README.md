@@ -10,7 +10,7 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,cpp,php,java,spring,python,flask,fastapi,react,go,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,cpp,php,java,spring,python,flask,fastapi,react,go,html,css,js,ts" />
 </p>
 
 **Python for Data & AI**  

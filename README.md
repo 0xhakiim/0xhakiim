@@ -40,7 +40,8 @@
 ## 🕹️ Profiles  
 - 🔗 [HackTheBox](https://app.hackthebox.com/profile/1272681)  
 - 🔗 [TryHackMe](https://tryhackme.com/p/0xhakiim)  
-
+- 🧩 [LeetCode](https://leetcode.com/YOUR_USERNAME)  
+- 🥋 [Codewars](https://www.codewars.com/users/YOUR_USERNAME)
 ---
 
 ## 📫 Connect  

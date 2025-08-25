@@ -23,16 +23,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
----
-
-### 🎮 Fun Facts
-- ⌨️ I break code before I fix it.  
-- ♟️ I play chess (blitz + rapid).  
-- 🌍 From **Algeria**, aiming global.  
-
----
 
 ### 📫 Reach me
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 🐦 [Twitter/X](https://twitter.com)  
-- 📧 `your.email@example.com`  
+- 📧 .mohamed.djaballah@gmail.com

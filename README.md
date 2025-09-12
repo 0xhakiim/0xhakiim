@@ -46,10 +46,9 @@
 
 ## 📫 Connect  
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/mohamed-djaballah]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=0xhakiim&color=ff69b4&style=for-the-badge)
